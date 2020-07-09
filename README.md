@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-![Me at Hack the North 2018](./IMG_2475.JPG)
+![Me at Hack the North 2018](https://raw.githubusercontent.com/rishiosaur/rishiosaur/master/IMG_2475.JPG)
 
 I'm Rishi, a rising HS sophomore that's super interested in open-source development, startups, React, and everything in between.
 
