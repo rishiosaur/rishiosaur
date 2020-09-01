@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Rishi, a rising HS sophomore that's super interested in open-source development, startups, React, and everything in between. I'm primarily a JS dev, but I've worked with Rust, C++, Haskell, and Swift in the past. I'm currently working as the Chief Technological Officer over at [Rapid](https://github.com/rapidotapp)!
+I'm [Rishi](https://linkedin.com/in/heyrishi), a rising HS sophomore that's super interested in open-source development, startups, React, and everything in between. I'm primarily a JS dev, but I've worked with Rust, C++, Haskell, and Swift in the past. I'm currently working as the Chief Technological Officer over at [Rapid](https://github.com/rapidotapp)!
 
 [![Rishi's github stats](https://github-readme-stats.vercel.app/api?username=rishiosaur)](https://github.com/anuraghazra/github-readme-stats)
 
