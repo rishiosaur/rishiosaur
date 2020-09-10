@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm [Rishi](https://linkedin.com/in/heyrishi), a rising HS sophomore that's super interested in open-source development, startups, React, and everything in between. I'm primarily a JS dev, but I've worked with Rust, C++, Haskell, and Swift in the past. I'm currently working as the Chief Executive Officer over at [Banur](https://github.com/banurapp), and I'll be starting a SWE internship at Mikasu shortly.
+I'm [Rishi](https://linkedin.com/in/heyrishi), a rising HS sophomore that's super interested in open-source development, startups, React, and everything in between. I'm primarily a JS dev, but I've worked with Rust, C++, Haskell, and Swift in the past. I'm currently working as the Chief Executive Officer over at [Banur](https://github.com/banurapp), and I'll be starting a SWE internship at Makasu shortly.
 
 [![Rishi's github stats](https://github-readme-stats.vercel.app/api?username=rishiosaur)](https://github.com/anuraghazra/github-readme-stats)
 
