@@ -9,3 +9,4 @@ Whenever I'm not contributing to [Deta](https://deta.sh), [Exercism](https://exe
 
 You can find me on the Hack Club Slack posting too much for my own good as `@ricey`, Instagram as `@rishi.svg`, Linkedin as `@heyrishi`, and Twitter as `@rishiosaur`!
 
+![trophy](https://github-profile-trophy.vercel.app/?username=rishiosaur&theme=onedark)
