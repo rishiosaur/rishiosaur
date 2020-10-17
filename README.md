@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm [Rishi](https://linkedin.com/in/heyrishi), a high school sophomore that's super interested in open-source development, startups, React, and everything in between. I'm primarily a JS dev, but I've worked with Rust, C++, Haskell, and Swift in the past. I'm currently working as the Chief Executive Officer over at [Banur](https://github.com/banurapp), a software engineering intern at Makasu, and the lead software architect at PetCode.
+I'm [Rishi](https://linkedin.com/in/heyrishi), a high school sophomore that's super interested in open-source development, startups, React, and everything in between. I'm primarily a JS dev, but I've worked with Rust, C++, Haskell, and Swift in the past. I'm currently working as the Chief Executive Officer over at [Banur](https://github.com/banurapp), a software engineering intern at Makasu, the president of TFSS Hack Club, and the lead software architect at PetCode.
 
 [![Rishi's github stats](https://github-readme-stats.vercel.app/api?username=rishiosaur)](https://github.com/anuraghazra/github-readme-stats)
 
