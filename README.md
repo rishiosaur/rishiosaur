@@ -1,7 +1,4 @@
 ![Rishi](https://github.com/rishiosaur/rishiosaur/raw/master/rishireadme.png)
-
----
-
 ![Linkedin](https://img.shields.io/badge/-heyrishi-510aed?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/heyrishi/)
 ![Instagram](https://img.shields.io/badge/-rishi.cx-df48ff?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/rishi.cx/)
 ![Website](https://img.shields.io/badge/-rishi.cx-ff66ce?style=for-the-badge&logoColor=white&link=https://instagram.com/rishi.cx/)
