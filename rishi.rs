@@ -1,0 +1,3 @@
+struct Rishi {
+  name: String
+}
