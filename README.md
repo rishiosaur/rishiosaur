@@ -1,9 +1,9 @@
 ![Rishi](https://github.com/rishiosaur/rishiosaur/raw/master/rishireadme.png)
-![Linkedin](https://img.shields.io/badge/-heyrishi-510aed?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/heyrishi/)
-![Instagram](https://img.shields.io/badge/-rishi.cx-df48ff?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/rishi.cx/)
-![Website](https://img.shields.io/badge/-rishi.cx-ff66ce?style=for-the-badge&logoColor=white&link=https://instagram.com/rishi.cx/)
-![Spotify](https://img.shields.io/badge/-rishiosaur-31099c?style=for-the-badge&logo=Spotify&logoColor=white&link=https://instagram.com/rishiosaur/)
-![Twitter](https://img.shields.io/badge/-rishiosaur-610cff?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/rishiosaur/)
+[![Linkedin](https://img.shields.io/badge/-heyrishi-510aed?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/heyrishi/)](https://linkedin.com/in/heyrishi/)
+[![Instagram](https://img.shields.io/badge/-rishi.cx-df48ff?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/rishi.cx/)](https://instagram.com/rishi.cx/)
+[![Website](https://img.shields.io/badge/-rishi.cx-ff66ce?style=for-the-badge&logoColor=white&link=https://rishi.cx/)](https://rishi.cx/)
+[![Spotify](https://img.shields.io/badge/-rishiosaur-31099c?style=for-the-badge&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/rishiosaur?si=-yOz-AfDR1msGjoKn65u6g)](https://open.spotify.com/user/rishiosaur?si=-yOz-AfDR1msGjoKn65u6g)
+[![Twitter](https://img.shields.io/badge/-rishiosaur-610cff?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/rishiosaur/)](https://twitter.com/rishiosaur/)
 
 I'm [Rishi](https://rishi.cx) 🌌, a high school sophomore that's super interested in open-source development, startups, React, and everything in between! ✨⚡️
 
