@@ -10,7 +10,7 @@ I'm [Rishi](https://rishi.cx) 🌌, a high school sophomore that's super interes
 
 I'm primarily a JS/TS dev, but I've worked with Rust 🔥, C++ 💖, Haskell ⚡️, and Swift 🏎 in the past.
 
-I'm currently working as the Chief Executive Officer over at [Banur](https://github.com/banurapp), a software engineering intern at Makasu, the president of TFSS Hack Club, and the lead software architect at PetCode.
+I'm currently working on my capstone project Banur, as the president of TFSS Hack Club, the lead software architect at PetCode, and a workshop coordinator at TurnerHacks.
 
 [![Rishi's github stats](https://github-readme-stats.vercel.app/api?username=rishiosaur&bg_color=000000&text_color=ff5bff&title_color=9e2eff)](https://github.com/anuraghazra/github-readme-stats)
 
