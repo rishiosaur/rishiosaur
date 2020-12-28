@@ -10,7 +10,7 @@
 
 <p>I&#39;m <a href="https://rishi.cx">Rishi</a> 🌌, a high school sophomore that&#39;s super interested in open-source development, startups, React, and everything in between! ✨⚡️</p>
 <p>I&#39;m primarily a JS/TS dev, but I&#39;ve worked with Rust 🔥, C++ 💖, Haskell ⚡️, and Swift 🏎 in the past. (I also use emojis way too often)</p>
-<p>I&#39;m currently working on my capstone project Banur, as the president of TFSS Hack Club, the lead software architect at PetCode, and a workshop coordinator at TurnerHacks. In addition, I'm also working on the core team of the <a href="https://github.com/vrtbl">Passerine Programming Language</a>.</p>
+<p>I&#39;m currently working on my capstone project Banur, as the president of TFSS Hack Club, the CTO at PetCode, and a workshop coordinator at TurnerHacks, among other things.</p>
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=rishiosaur&amp;bg_color=000000&amp;text_color=ff5bff&amp;title_color=9e2eff" alt="Rishi&#39;s github stats"></a></p>
 <p>Whenever I&#39;m not contributing to <a href="https://deta.sh">Deta</a>, <a href="https://exercism.io">Exercism</a>, <a href="https://github.com/Standard-Structure">Standard Structure</a>, or various other repositories, I love to mountain bike with my Talon 3 on some of the trails near my house, build stupid projects, and just have fun with my friends!</p>
