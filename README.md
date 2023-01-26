@@ -8,10 +8,6 @@
 <a href="https://z.rishi.cx/ls"><img src="https://img.shields.io/badge/-~ls-ff66ce?style=for-the-badge&amp;logoColor=white&amp;link=https://z.rishi.cx/ls" alt="Links"></a></p>
 </p>
 
-<p>I&#39;m <a href="https://rishi.cx">Rishi</a> 🌌, a high school sophomore that&#39;s super interested in open-source development, startups, React, and everything in between! ✨⚡️</p>
-<p>I&#39;m primarily a JS/TS dev, but I&#39;ve worked with Rust 🔥, C++ 💖, Haskell ⚡️, and Swift 🏎 in the past. (I also use emojis way too often)</p>
-<p>I&#39;m currently working on my capstone project Banur, as the president of TFSS Hack Club, the CTO at PetCode, and a workshop coordinator at TurnerHacks, among other things.</p>
+I'm Rishi. I'm a high school senior in Toronto. I write code for Arterial, a policy-focused AI company that automates knowledge collection for businesses. We're closing a $450K pre-seed round now, led by Contrary Capital w/ participation from . We're in the hands of a dozen companies.
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=rishiosaur&amp;bg_color=000000&amp;text_color=ff5bff&amp;title_color=9e2eff" alt="Rishi&#39;s github stats"></a></p>
-<p>Whenever I&#39;m not contributing to <a href="https://deta.sh">Deta</a>, <a href="https://exercism.io">Exercism</a>, <a href="https://github.com/Standard-Structure">Standard Structure</a>, or various other repositories, I love to mountain bike with my Talon 3 on some of the trails near my house, build stupid projects, and just have fun with my friends!</p>
-<p>You can find me on the Hack Club Slack posting too much for my own good and running events as <code>@ricey</code>, Instagram as <code>@rishi.svg</code>, Linkedin as <code>@heyrishi</code>, and Twitter as <code>@rishiosaur</code>!</p>
+Before that, I raised $1.8M for Otto, a pet-tech startup I co-founded in my freshman year that scaled to tens of thousands of customers; I ran the Hacker Zephyr, the world's longest hackathon sponsored by GitHub across 3500 miles of railroad with 42 peers; there's a lot more, but you can email me at hey@rishi.cx to find that.
